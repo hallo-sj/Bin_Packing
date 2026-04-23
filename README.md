@@ -1,4 +1,4 @@
-# Bin_Packing
+[capture_20260423104222810.bmp](https://github.com/user-attachments/files/26994616/capture_20260423104222810.bmp)# Bin_Packing
 # 3D Bin Packing Problem - Heuristic Algorithm Optimization
 
 ## 项目简介
@@ -17,7 +17,7 @@ Python 3.8+
 Pandas, Matplotlib, openpyxl (用于读取 .xlsx)
 
 ## 运行结果示例
-[可视化结果](./result_demo.png)   
+[可视化结果]([Uploading capture_20260423104222810.bmp…])   
 
 ## 优化效果
-相比经典 First Fit Decreasing 算法，在 LP112 测试集上空间利用率提升至87%。
+相比经典 First Fit Decreasing 算法，在 LP113 测试集上对40寸集装箱进行装箱空间利用率提升至63.17%(装载率100%)。
