@@ -8,9 +8,9 @@
 支持物品六种旋转姿态的自适应选择。
 
 ## 核心文件说明
-`main.py`：算法主入口，支持从 Excel/CSV 导入数据，输出可视化结果与 CSV 报表。
-`packing_visualization_2.py`：基于 Matplotlib 的 3D 可视化模块。
-`LP112Goods.xlsx`：测试用例数据集。
+-`main.py`：算法主入口，支持从 Excel/CSV 导入数据，输出可视化结果与 CSV 报表。
+-`packing_visualization_2.py`：基于 Matplotlib 的 3D 可视化模块。
+-`LP112Goods.xlsx`：测试用例数据集。
 
 ## 运行环境
 Python 3.8+
